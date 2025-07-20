@@ -22,4 +22,5 @@ Advanced Prompt Engineer – Built Radio Mentor CLI
 ## Running locally
 ```bash
 pip install python-dotenv openai pytest
+cd radio_mentor
 python main.py
