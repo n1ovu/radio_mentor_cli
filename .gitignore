@@ -1,0 +1,12 @@
+# python venv
+virt/
+
+# secrets
+.env
+
+# byte‑code & caches
+__pycache__/
+*.pyc
+
+# VSCode (optional)
+.vscode/
