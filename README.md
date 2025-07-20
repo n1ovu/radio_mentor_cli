@@ -1,5 +1,4 @@
 # Radio Mentor CLI  
-![Python CI](https://github.com/<user>/radio_mentor_cli/actions/workflows/python-ci.yml/badge.svg)
 
 
 Command‑line tool that delivers concise RF‑diagnostics answers
