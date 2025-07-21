@@ -13,4 +13,4 @@ __pycache__/
 # VSCode (optional)
 .vscode/
 
-test,txt
+test.txt
